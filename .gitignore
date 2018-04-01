@@ -1,0 +1,7 @@
+packages/*
+Debug/*
+.vs/*
+
+ConsoleApplication1/trainingimages/*
+ConsoleApplication1/somelabels/*
+ConsoleApplication1/Debug/*
